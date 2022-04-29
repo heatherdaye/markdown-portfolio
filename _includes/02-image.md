@@ -1,1 +1,1 @@
-~[Image of Tacocat](https://github.com/heatherdaye/Images/blob/main/tacocat.jpg)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
