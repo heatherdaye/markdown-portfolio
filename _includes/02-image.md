@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+~[Image of Tacocat](https://github.com/heatherdaye/Images/blob/main/tacocat.jpg)
