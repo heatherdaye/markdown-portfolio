@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Miniature Painting**
+📍 __Kobudo Blackbelt__ *second degree*
+**Bouldering**
+:smilecat: *And IT stuff...* 
